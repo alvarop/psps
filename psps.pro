@@ -1,4 +1,4 @@
-update=Sat 13 Jul 2019 11:07:39 AM PDT
+update=Sun 21 Jul 2019 03:19:21 PM PDT
 version=1
 last_client=kicad
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=pcpc.net
+LastNetListRead=psps.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -69,7 +69,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.0508
 SolderMaskMinWidth=0.254
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
